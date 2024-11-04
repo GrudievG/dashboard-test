@@ -69,7 +69,7 @@ const Dashboard = () => {
   return (
     <div className="p-6">
       <h1 className="text-3xl font-medium text-gray-800">
-        Welcome, John
+        Welcome, John Doe New
       </h1>
       <p className="text-gray-300 mb-3">
         Here is the information about all your events
