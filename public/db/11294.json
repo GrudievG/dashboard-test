@@ -1,0 +1,63 @@
+{
+  "event": {
+    "id": "11294",
+    "date": 1730393035192,
+    "name": "SATOSHI - Sport Cluj",
+    "location": "Romania, Cluj",
+    "amount": 847.69,
+    "status": "active",
+    "price": 18,
+    "customers": [
+      {
+        "id": "1",
+        "name": "Conea Adrian",
+        "email": "coneaconea5@gmail.com",
+        "tickets": 23,
+        "purchaseDate": 1730393035192,
+        "amount": 324
+      },
+      {
+        "id": "2",
+        "name": "Popescu Nicu",
+        "email": "popescu.nicu@gmail.com",
+        "tickets": 1,
+        "purchaseDate": 1730393035192,
+        "amount": 18
+      },
+      {
+        "id": "3",
+        "name": "Criulescu Ion",
+        "email": "criulescu.ion@gmail.com",
+        "tickets": 4,
+        "purchaseDate": 1730393035192,
+        "amount": 72
+      }
+    ]
+  },
+  "statistics": {
+    "users": {
+      "total": 1415,
+      "weekly": 25,
+      "percentage": 7.5,
+      "growth": true
+    },
+    "income": {
+      "total": 3150,
+      "weekly": 25,
+      "percentage": 12.5,
+      "growth": false
+    },
+    "tickets": {
+      "total": 1627,
+      "weekly": 25,
+      "percentage": 3.5,
+      "growth": false
+    },
+    "favorite": {
+      "total": 4854,
+      "weekly": 67,
+      "percentage": 6.5,
+      "growth": true
+    }
+  }
+}
